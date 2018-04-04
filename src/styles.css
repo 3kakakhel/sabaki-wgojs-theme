@@ -1,47 +1,47 @@
 .goban li.sign_-1.random_0 .stone img {
-        background-image: url('./stones/white00_128.png');
+        background-image: url('./stones/128x128/white00.png');
     }
     .goban li.sign_-1.random_1 .stone img {
-        background-image: url('./stones/white01_128.png');
+        background-image: url('./stones/128x128/white01.png');
     }
     .goban li.sign_-1.random_2 .stone img {
-        background-image: url('./stones/white02_128.png');
+        background-image: url('./stones/128x128/white02.png');
     }
     .goban li.sign_-1.random_3 .stone img {
-        background-image: url('./stones/white03_128.png');
+        background-image: url('./stones/128x128/white03.png');
     }
     .goban li.sign_-1.random_4 .stone img {
-        background-image: url('./stones/white04_128.png');
+        background-image: url('./stones/128x128/white04.png');
     }
     .goban li.sign_-1.random_5 .stone img {
-        background-image: url('./stones/white05_128.png');
+        background-image: url('./stones/128x128/white05.png');
     }
     .goban li.sign_-1.random_6 .stone img {
-        background-image: url('./stones/white06_128.png');
+        background-image: url('./stones/128x128/white06.png');
     }
     .goban li.sign_-1.random_7 .stone img {
-        background-image: url('./stones/white07_128.png');
+        background-image: url('./stones/128x128/white07.png');
     }
     .goban li.sign_-1.random_8 .stone img {
-        background-image: url('./stones/white08_128.png');
+        background-image: url('./stones/128x128/white08.png');
     }
     .goban li.sign_-1.random_9 .stone img {
-        background-image: url('./stones/white09_128.png');
+        background-image: url('./stones/128x128/white09.png');
     }
     .goban li.sign_-1.random_10 .stone img {
-        background-image: url('./stones/white10_128.png');
+        background-image: url('./stones/128x128/white10.png');
 }
 .goban li.sign_1.random_0 .stone img {
-        background-image: url('./stones/black00_128.png');
+        background-image: url('./stones/128x128/black00.png');
     }
     .goban li.sign_1.random_1 .stone img {
-        background-image: url('./stones/black01_128.png');
+        background-image: url('./stones/128x128/black01.png');
     }
     .goban li.sign_1.random_2 .stone img {
-        background-image: url('./stones/black02_128.png');
+        background-image: url('./stones/128x128/black02.png');
     }
     .goban li.sign_1.random_3 .stone img {
-        background-image: url('./stones/black03_128.png');
+        background-image: url('./stones/128x128/black03.png');
 }
 .goban,
 .goban .row li .stone span::before,
